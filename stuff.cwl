@@ -26,9 +26,8 @@ outputs:
 s:author:
   - class: s:Person
     s:identifier: https://orcid.org/0000-0002-6130-1021
-    s:email: mailto:dyuen@oicr.on.ca
-    s:name: Denis Yuen
-
+    s:email: mailto:potato@oicr.on.ca
+    s:name: Potato
 s:contributor:
   - class: s:Person
     s:identifier: http://orcid.org/0000-0002-7681-6415
